@@ -1,0 +1,14 @@
+{
+	"name": "communityapi",
+	"version": "1.0.0",
+	"description": "",
+	"main": "characters.js",
+	"scripts": {
+		"characters": "nodemon ./scripts/characters.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.26.0"
+	}
+}
